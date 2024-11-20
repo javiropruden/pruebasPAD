@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pruebasPAD/static/css/main.25e58655.css",
+    "main.js": "/pruebasPAD/static/js/main.94ebf6b7.js",
+    "index.html": "/pruebasPAD/index.html",
+    "main.25e58655.css.map": "/pruebasPAD/static/css/main.25e58655.css.map",
+    "main.94ebf6b7.js.map": "/pruebasPAD/static/js/main.94ebf6b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e58655.css",
+    "static/js/main.94ebf6b7.js"
+  ]
+}
